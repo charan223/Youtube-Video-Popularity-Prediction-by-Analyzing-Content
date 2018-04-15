@@ -1,0 +1,9 @@
+google-api-python-client
+networkx
+nltk[stopwords,]
+numpy
+stanford-corenlp-pywrapper
+sklearn
+scikit-learn
+scipy
+six
